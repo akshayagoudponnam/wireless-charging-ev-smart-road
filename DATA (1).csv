@@ -1,0 +1,2 @@
+timestamp,voltage_v,battery_percent,humidity_percent,temperature_c,source
+not_provided_in_report,2.63,108,66,30,Figure 17 LCD display
